@@ -11,6 +11,7 @@ Technologies : CSS preprocessor SASS along with BEM writing metodology, HTML5
 </br>
 The CSS folder architecture is "7.1"
 </br>
+</br>
 If you wish to make any kind of changes in the CSS, you need to open the source file of the projet, open a terminal and run **npm install** in order to install the required dependencies for SCSS to be able to compile your CSS and apply the changes.
 
 I take no credits for the design, it is note mine, only the code is mine.
