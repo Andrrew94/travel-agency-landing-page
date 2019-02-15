@@ -7,6 +7,8 @@ In order to review this project, you need to download/clone the repository and s
 The prefered browser is Chrome since the project is made with modern CSS3 properties, it is currently not supported across all browsers.
 
 Technologies : CSS preprocessor SASS along with BEM writing metodology, HTML5
-               The CSS architecture is "7.1"
+</br>
+</br>
+The CSS architecture is "7.1"
 
 I take no credits for the design, it is note mine, only the code is mine.
