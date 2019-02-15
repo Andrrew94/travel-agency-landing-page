@@ -9,6 +9,6 @@ The prefered browser is Chrome since the project is made with modern CSS3 proper
 Technologies : CSS preprocessor SASS along with BEM writing metodology, HTML5
 </br>
 </br>
-The CSS architecture is "7.1"
+The CSS folder architecture is "7.1"
 
 I take no credits for the design, it is note mine, only the code is mine.
