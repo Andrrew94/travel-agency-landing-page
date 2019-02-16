@@ -15,3 +15,11 @@ The CSS folder architecture is "7.1"
 If you wish to make any kind of changes in the CSS, you need to open the source file of the projet, open a terminal and run **npm install** in order to install the required dependencies for SCSS to be able to compile your CSS and apply the changes.
 
 I take no credits for the design, it is note mine, only the code is mine.
+
+![Preview1](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview1.jpg)
+![Preview2](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview2.jpg)
+![Preview3](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview3.jpg)
+![Preview4](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview4.jpg)
+![Preview5](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview5.jpg)
+![Preview6](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview6.jpg)
+![Preview7](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview7.jpg)
