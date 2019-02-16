@@ -16,11 +16,24 @@ If you wish to make any kind of changes in the CSS, you need to open the source 
 
 I take no credits for the design, it is note mine, only the code is mine.
 
+</br>
+Hero section
 ![Preview1](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview1.jpg)
 </br>
+Section 2
 ![Preview2](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview2.JPG)
+</br>
+Section 3
 ![Preview3](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview3.JPG)
+</br>
+Section 4
 ![Preview4](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview4.JPG)
+</br>
+Section 5
 ![Preview5](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview5.JPG)
+</br>
+Section 6
 ![Preview6](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview6.JPG)
+</br>
+Footer section
 ![Preview7](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview7.JPG)
