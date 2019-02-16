@@ -17,9 +17,9 @@ If you wish to make any kind of changes in the CSS, you need to open the source 
 I take no credits for the design, it is note mine, only the code is mine.
 
 ![Preview1](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview1.jpg)
-![Preview2](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview2.jpg)
-![Preview3](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview3.jpg)
-![Preview4](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview4.jpg)
-![Preview5](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview5.jpg)
-![Preview6](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview6.jpg)
-![Preview7](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview7.jpg)
+![Preview2](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview2.JPG)
+![Preview3](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview3.JPG)
+![Preview4](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview4.JPG)
+![Preview5](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview5.JPG)
+![Preview6](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview6.JPG)
+![Preview7](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview7.JPG)
