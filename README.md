@@ -17,6 +17,7 @@ If you wish to make any kind of changes in the CSS, you need to open the source 
 I take no credits for the design, it is note mine, only the code is mine.
 
 ![Preview1](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview1.jpg)
+</br>
 ![Preview2](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview2.JPG)
 ![Preview3](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview3.JPG)
 ![Preview4](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview4.JPG)
