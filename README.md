@@ -21,19 +21,19 @@ Hero section
 
 ![Preview1](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview1.jpg)
 </br>
-Section 2
+Tours section
 ![Preview2](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview2.JPG)
 </br>
-Section 3
+Opportunities
 ![Preview3](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview3.JPG)
 </br>
-Section 4
+Tours and prices
 ![Preview4](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview4.JPG)
 </br>
-Section 5
+Reviews section
 ![Preview5](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview5.JPG)
 </br>
-Section 6
+Contact form
 ![Preview6](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview6.JPG)
 </br>
 Footer section
