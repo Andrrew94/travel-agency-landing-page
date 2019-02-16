@@ -18,6 +18,7 @@ I take no credits for the design, it is note mine, only the code is mine.
 
 </br>
 Hero section
+
 ![Preview1](https://github.com/Andrrew94/travel-agency-landing-page/blob/master/preview/preview1.jpg)
 </br>
 Section 2
